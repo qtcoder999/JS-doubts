@@ -9,4 +9,4 @@ enumerable example<br>
 flyweight pattern<br>
 mediator pattern<br>
 return false | preventDefault<br>
-delegation<br>
+delegation video<br>
