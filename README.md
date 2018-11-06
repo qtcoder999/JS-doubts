@@ -5,7 +5,6 @@ getDistributedNodes()<br>
 rake server for manifest<br>
 manifest working demo<br>
 Web socket server<br>
-enumerable example<br>
 flyweight pattern<br>
 mediator pattern<br>
 return false | preventDefault<br>
