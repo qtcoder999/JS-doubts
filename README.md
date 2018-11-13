@@ -15,3 +15,5 @@ Rapid es6 || Template Literals || last example || https://app.pluralsight.com/pl
 extend and super || Object.setPrototypeOf || https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m3&clip=4&mode=live
 Properties for Class Instances || https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m3&clip=6&mode=live
 yield keyword
+Symbols || What are they ?
+Generators || What the advantages of using a generator ?
