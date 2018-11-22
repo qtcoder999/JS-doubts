@@ -22,3 +22,4 @@ React: The Big Picture<br/>
 Environment Setup || Parallel Scripting || https://app.pluralsight.com/player?course=react-redux-react-router-es6&author=cory-house&name=react-redux-react-router-es6-m2&clip=17&mode=live <br/>
 Console make changes to react component and make new components in React || Useful for debugging purposes <br/>
 OwnProps || React-Redux <br/>
+This means that mutation in a reducer can lead to the root state object not being updated, and thus the UI won't re-render. <br/>
