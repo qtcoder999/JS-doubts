@@ -20,4 +20,5 @@ Generators || What the advantages of using a generator ?<br/>
 The Reflect API || What the advantages of The Reflect API ?<br/>
 React: The Big Picture<br/>
 Environment Setup || Parallel Scripting || https://app.pluralsight.com/player?course=react-redux-react-router-es6&author=cory-house&name=react-redux-react-router-es6-m2&clip=17&mode=live <br/>
-Console make changes to react component and make new components in React || Useful for debugging purposes
+Console make changes to react component and make new components in React || Useful for debugging purposes <br/>
+OwnProps || React-Redux <br/>
