@@ -23,3 +23,5 @@ Environment Setup || Parallel Scripting || https://app.pluralsight.com/player?co
 Console make changes to react component and make new components in React || Useful for debugging purposes <br/>
 OwnProps || React-Redux <br/>
 This means that mutation in a reducer can lead to the root state object not being updated, and thus the UI won't re-render. <br/>
+Why don't we mutate store's state?<br/>
+Why was flux dropped ?<br/>
